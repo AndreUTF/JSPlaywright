@@ -1,0 +1,13 @@
+node_modules/
+
+# Playwright
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/.playwright-mcp/
+
+# Logs
+npm-debug.log*
+
+# Env
+.env
